@@ -61,8 +61,6 @@ const wordList = [
       word: "galaxy",
       hint: "A vast system of stars, gas, and dust held together by gravity.",
     },
-    
-  
     {
       word: "volcano",
       hint: "A mountain or hill with a vent through which lava, rock fragments, hot vapor, and gas are ejected.",
@@ -71,7 +69,6 @@ const wordList = [
       word: "novel",
       hint: "A long work of fiction, typically with a complex plot and characters.",
     },
-    
     {
       word: "ballet",
       hint: "A classical dance form characterized by precise and graceful movements.",
@@ -84,7 +81,6 @@ const wordList = [
       word: "waterfall",
       hint: "A cascade of water falling from a height.",
     },
-   
     {
       word: "rainbow",
       hint: "A meteorological phenomenon that is caused by reflection, refraction, and dispersion of light.",
@@ -101,12 +97,10 @@ const wordList = [
       word: "vacation",
       hint: "A period of time devoted to pleasure, rest, or relaxation.",
     },
-  
     {
       word: "theater",
       hint: "A building or outdoor area in which plays, movies, or other performances are staged.",
     },
-    
     {
       word: "desert",
       hint: "A barren or arid land with little or no precipitation.",
@@ -119,7 +113,6 @@ const wordList = [
       word: "fantasy",
       hint: "A genre of imaginative fiction involving magic and supernatural elements.",
     },
-  
     {
       word: "breeze",
       hint: "A gentle wind.",
@@ -128,7 +121,6 @@ const wordList = [
       word: "oasis",
       hint: "A fertile spot in a desert where water is found.",
     },
-    
     {
       word: "safari",
       hint: "An expedition or journey, typically to observe wildlife in their natural habitat.",
@@ -141,7 +133,6 @@ const wordList = [
       word: "river",
       hint: "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
     },
-  
     {
       word: "mysterious",
       hint: "Difficult or impossible to understand, explain, or identify.",
@@ -179,11 +170,9 @@ const wordList = [
       word: "illusion",
       hint: "A false perception or belief; a deceptive appearance or impression.",
     },
-  
     {
       word: "vibrant",
       hint: "Full of energy, brightness, and life.",
     },
-    
   ];
   
